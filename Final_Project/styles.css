@@ -1,0 +1,23 @@
+body{padding: 5em;}
+
+h1{
+		text-align: center;
+		padding: 20px;
+		background-color: lightsteelblue;
+		color: black;
+	}
+h2{
+		text-align: center;
+		padding: 10px;
+		background-color: antiquewhite;
+		color: black;
+	}
+
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
